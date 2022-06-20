@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-13T11:49:16 IST" name="Default suite" finished-at="2022-05-13T11:49:33 IST" duration-ms="16997">
+    <groups>
+    </groups>
+    <test started-at="2022-05-13T11:49:16 IST" name="Default test" finished-at="2022-05-13T11:49:33 IST" duration-ms="16997">
+      <class name="com.interviews.Ebay">
+        <test-method signature="EbayLaunch()[pri:0, instance:com.interviews.Ebay@4fb3ee4e]" started-at="2022-05-13T11:49:16 IST" name="EbayLaunch" finished-at="2022-05-13T11:49:33 IST" duration-ms="16960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EbayLaunch -->
+      </class> <!-- com.interviews.Ebay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

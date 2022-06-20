@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Parallel Testing in class level1">
+    <classes>
+      <class name="com.ParallelTestingDemo.PrallelClassDemo1"/>
+<!-- Test we can add multiple classes here to run -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
